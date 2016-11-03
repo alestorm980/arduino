@@ -279,3 +279,4 @@ echo -n "\"skipped\": $SKIP_COUNT, "
 echo -n "\"failed\": $FAIL_COUNT, "
 echo "\"platforms\": { $platforms_json } }"
 echo -e "||||||||||||||||||||||||||||| JSON STATUS ||||||||||||||||||||||||||||||\n"
+end
